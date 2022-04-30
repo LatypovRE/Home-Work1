@@ -1,0 +1,15 @@
+C:\Users\Радэль\Desktop\HomeWork1\HW03\obj\Debug\net6.0\HW03.csproj.AssemblyReference.cache
+C:\Users\Радэль\Desktop\HomeWork1\HW03\obj\Debug\net6.0\HW03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Радэль\Desktop\HomeWork1\HW03\obj\Debug\net6.0\HW03.AssemblyInfoInputs.cache
+C:\Users\Радэль\Desktop\HomeWork1\HW03\obj\Debug\net6.0\HW03.AssemblyInfo.cs
+C:\Users\Радэль\Desktop\HomeWork1\HW03\obj\Debug\net6.0\HW03.csproj.CoreCompileInputs.cache
+C:\Users\Радэль\Desktop\HomeWork1\HW03\bin\Debug\net6.0\HW03.exe
+C:\Users\Радэль\Desktop\HomeWork1\HW03\bin\Debug\net6.0\HW03.deps.json
+C:\Users\Радэль\Desktop\HomeWork1\HW03\bin\Debug\net6.0\HW03.runtimeconfig.json
+C:\Users\Радэль\Desktop\HomeWork1\HW03\bin\Debug\net6.0\HW03.dll
+C:\Users\Радэль\Desktop\HomeWork1\HW03\bin\Debug\net6.0\HW03.pdb
+C:\Users\Радэль\Desktop\HomeWork1\HW03\obj\Debug\net6.0\HW03.dll
+C:\Users\Радэль\Desktop\HomeWork1\HW03\obj\Debug\net6.0\refint\HW03.dll
+C:\Users\Радэль\Desktop\HomeWork1\HW03\obj\Debug\net6.0\HW03.pdb
+C:\Users\Радэль\Desktop\HomeWork1\HW03\obj\Debug\net6.0\HW03.genruntimeconfig.cache
+C:\Users\Радэль\Desktop\HomeWork1\HW03\obj\Debug\net6.0\ref\HW03.dll
